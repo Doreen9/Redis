@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="io.turntabl.springbootdemo.model.MathsTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2019-11-20T15:01:00" hostname="ip-172-31-19-39" time="0.027">
+  <properties/>
+  <testcase name="addNegativePositiveNumbers()" classname="io.turntabl.springbootdemo.model.MathsTest" time="0.02"/>
+  <testcase name="subtractNegativePositiveNumbers()" classname="io.turntabl.springbootdemo.model.MathsTest" time="0.001"/>
+  <testcase name="subtractPositiveNumbers()" classname="io.turntabl.springbootdemo.model.MathsTest" time="0.001"/>
+  <testcase name="addPositiveNumbers()" classname="io.turntabl.springbootdemo.model.MathsTest" time="0.001"/>
+  <testcase name="subtractNegativeNumbers()" classname="io.turntabl.springbootdemo.model.MathsTest" time="0.001"/>
+  <testcase name="addNegativeNumbers()" classname="io.turntabl.springbootdemo.model.MathsTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
