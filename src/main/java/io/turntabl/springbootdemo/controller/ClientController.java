@@ -2,7 +2,6 @@ package io.turntabl.springbootdemo.controller;
 
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
-import io.turntabl.springbootdemo.implementor.ClientDAOImpl;
 import io.turntabl.springbootdemo.model.ClientTO;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
